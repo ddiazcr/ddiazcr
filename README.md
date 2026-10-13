@@ -9,6 +9,17 @@ I build hands-on security labs that go beyond installing tools: every project fo
 - 🎓 Advanced Cybersecurity Technician · English B2
 - 💼 Open to junior SOC / Blue Team opportunities in Costa Rica
 
+<p>
+  <img src="https://img.shields.io/badge/SIEM-Wazuh-3BB1C2?logo=wazuh&logoColor=white" alt="Wazuh">
+  <img src="https://img.shields.io/badge/NIDS-Suricata-EF3B2D" alt="Suricata">
+  <img src="https://img.shields.io/badge/MITRE-ATT%26CK-red" alt="MITRE ATT&CK">
+  <img src="https://img.shields.io/badge/Windows%20Server-2022-0078D6?logo=windows&logoColor=white" alt="Windows Server 2022">
+  <img src="https://img.shields.io/badge/Active%20Directory-lab.local-0078D6" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
+</p>
+
 ---
 
 ## 🔬 Projects
@@ -30,6 +41,16 @@ I build hands-on security labs that go beyond installing tools: every project fo
 
 ---
 
+## 📊 GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ddiazcr&show_icons=true&hide_rank=true&hide=stars&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddiazcr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages">
+</p>
+
+---
+
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldiazcr-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldiazcr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldiazcr-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldiazcr)
+[![GitHub](https://img.shields.io/badge/GitHub-ddiazcr-181717?logo=github&logoColor=white)](https://github.com/ddiazcr)
